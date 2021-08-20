@@ -1,0 +1,143 @@
+[[ATKmm]]
+arch = "aarch64"
+git-tree-sha1 = "a1166d1291dea271e42188bc79cbe3317171c46e"
+os = "macos"
+
+    [[ATKmm.download]]
+    sha256 = "052e4e48f89ca38e386289566dfa6d45390d0bffbd46e99ab1c1885896def220"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.aarch64-apple-darwin.tar.gz"
+[[ATKmm]]
+arch = "aarch64"
+git-tree-sha1 = "cb7498983dff73ba23cd6f038d1bbc2d1483e609"
+libc = "glibc"
+os = "linux"
+
+    [[ATKmm.download]]
+    sha256 = "790947756cd4bd807900e169b9af1880771416cdc576ea7063c02460d187409b"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.aarch64-linux-gnu.tar.gz"
+[[ATKmm]]
+arch = "aarch64"
+git-tree-sha1 = "93e35a1af1e55269e990f77f557be7dfa0ec3fdc"
+libc = "musl"
+os = "linux"
+
+    [[ATKmm.download]]
+    sha256 = "907babe970aff2885ebaa4c01dfac37f5d65e7e92d95e55f8431c758c479f5de"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.aarch64-linux-musl.tar.gz"
+[[ATKmm]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2ed5f5edaa2aad7529e9350a391a40cbe7f692cf"
+libc = "glibc"
+os = "linux"
+
+    [[ATKmm.download]]
+    sha256 = "8b78c7987430e61ac429942cd43d110be39f4ffb2de0a6096cc47ae449f704bc"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.armv6l-linux-gnueabihf.tar.gz"
+[[ATKmm]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1680de541e78b2895e4747bd9b8f3234e73b5699"
+libc = "musl"
+os = "linux"
+
+    [[ATKmm.download]]
+    sha256 = "8cd568434a69032f2d133781dfca3be477fcd62424da4de2ffcdf4590b04466c"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.armv6l-linux-musleabihf.tar.gz"
+[[ATKmm]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "952078b2ed3b2688da8a0df36cc7817d0c779fdb"
+libc = "glibc"
+os = "linux"
+
+    [[ATKmm.download]]
+    sha256 = "2cfc145d4d8185ee7a3d6d7d37d2a58d8e1235ef79a225f2123086e01d1426ca"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.armv7l-linux-gnueabihf.tar.gz"
+[[ATKmm]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9f6f67aad1fd6a38b0cf089781d4593c30c409db"
+libc = "musl"
+os = "linux"
+
+    [[ATKmm.download]]
+    sha256 = "d4c5e2c4ff4a0cddad42e7fe6187bb89d3169533279d57d6e21d3b10c2030c2f"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.armv7l-linux-musleabihf.tar.gz"
+[[ATKmm]]
+arch = "i686"
+git-tree-sha1 = "ac33025aa1ac1da277273beb674ff202eaa7643f"
+libc = "glibc"
+os = "linux"
+
+    [[ATKmm.download]]
+    sha256 = "cbdb4ec8060c902379a997ecd21e7fac71b980164275691b7e978b5796e8135c"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.i686-linux-gnu.tar.gz"
+[[ATKmm]]
+arch = "i686"
+git-tree-sha1 = "656b272482cffa83eee33b8349458aa3ee6b70a2"
+libc = "musl"
+os = "linux"
+
+    [[ATKmm.download]]
+    sha256 = "909d581384e2ebeba2f664abb1e31542c8c70645fc25fb21ee8d8119a5bf844a"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.i686-linux-musl.tar.gz"
+[[ATKmm]]
+arch = "i686"
+git-tree-sha1 = "b7dedc70bb512bb21ec82282bc067a7e4360887e"
+os = "windows"
+
+    [[ATKmm.download]]
+    sha256 = "91fb534aaa5392319ceb3d5f54754dccef7924354ffa5f41ed3c4e6e433b1c2b"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.i686-w64-mingw32.tar.gz"
+[[ATKmm]]
+arch = "powerpc64le"
+git-tree-sha1 = "78ed9b32eaceafb0fb4619559621eb3875e9c850"
+libc = "glibc"
+os = "linux"
+
+    [[ATKmm.download]]
+    sha256 = "00ad53b5e774ecf39cf7f07a6e6336b43de143d6d31765e48f6f1060a53b66ec"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.powerpc64le-linux-gnu.tar.gz"
+[[ATKmm]]
+arch = "x86_64"
+git-tree-sha1 = "7c66953f7f7a6591e8384e3f46334a58bb137c6e"
+os = "macos"
+
+    [[ATKmm.download]]
+    sha256 = "a165a9419da810ee1b73b6714eb4f8b6fe7a61fd749932d52f867d42c2dd4021"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.x86_64-apple-darwin.tar.gz"
+[[ATKmm]]
+arch = "x86_64"
+git-tree-sha1 = "900b42c55d3fe8b7f498b7e413b0182e6b54b035"
+libc = "glibc"
+os = "linux"
+
+    [[ATKmm.download]]
+    sha256 = "552cc1e5bd67718ae2c1ddd19e5eec2a257ea202ebd24fb0a4eb2bed37787e3a"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.x86_64-linux-gnu.tar.gz"
+[[ATKmm]]
+arch = "x86_64"
+git-tree-sha1 = "eda3aa250eae5ff1a399998cef9b0a4f5315b51a"
+libc = "musl"
+os = "linux"
+
+    [[ATKmm.download]]
+    sha256 = "d215bb12a8fc2436dc5c59e53b2599b0894bc24677d3a56a0e7453f9c96f765b"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.x86_64-linux-musl.tar.gz"
+[[ATKmm]]
+arch = "x86_64"
+git-tree-sha1 = "57c744dded5085a0dd3380d95cae6a94781a4d8e"
+os = "freebsd"
+
+    [[ATKmm.download]]
+    sha256 = "a84902ea47db569f8c241e3254d62eb37a2a73bbe7e900f6cc74948f3df681e5"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.x86_64-unknown-freebsd.tar.gz"
+[[ATKmm]]
+arch = "x86_64"
+git-tree-sha1 = "e4920f27f87d2f286563f0886ad34c94e1aae1f3"
+os = "windows"
+
+    [[ATKmm.download]]
+    sha256 = "4c537a1b58ec53d3694f8063dacd47c12abc91f0b6e02bc73e71f787e53d42b3"
+    url = "https://github.com/JuliaBinaryWrappers/ATKmm_jll.jl/releases/download/ATKmm-v2.36.1+0/ATKmm.v2.36.1.x86_64-w64-mingw32.tar.gz"
