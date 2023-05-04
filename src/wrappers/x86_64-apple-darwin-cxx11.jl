@@ -4,12 +4,12 @@ export libatkmm
 using ATK_jll
 using Glibmm_jll
 JLLWrappers.@generate_wrapper_header("ATKmm")
-JLLWrappers.@declare_library_product(libatkmm, "@rpath/libatkmm-1.6.1.dylib")
+JLLWrappers.@declare_library_product(libatkmm, "@rpath/libatkmm-2.36.1.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(ATK_jll, Glibmm_jll)
     JLLWrappers.@init_library_product(
         libatkmm,
-        "lib/libatkmm-1.6.1.dylib",
+        "lib/libatkmm-2.36.1.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
